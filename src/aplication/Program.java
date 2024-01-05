@@ -47,6 +47,7 @@ public class Program {
 			else {
 				reservation.updateDates(checkIn, checkOut);
 				System.out.println("Reservation: " + reservation);
+				System.out.println("Fim do programa");
 			}		
 						
 		}
